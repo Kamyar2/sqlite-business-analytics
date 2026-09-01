@@ -1,4 +1,5 @@
 
+-- Language: SQL (SQLite Business Diagnostics)
 -- Operational Data Diagnostics & SQL Analytics
 -- Objective: Identify bottlenecks, calculate KPIs, and aggregate user activity trends.
 
