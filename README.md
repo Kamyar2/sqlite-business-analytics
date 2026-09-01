@@ -9,8 +9,8 @@ A collection of analytical SQL queries and database diagnostic scripts designed 
 * **Funnel Efficiency:** Measures operational conversion rates and status distributions.
 
 ## Tech Stack
-* **Language:** SQLite
-* **Database:** SQLite / Relational DBs
+* **Language:** `SQL` / `SQLite`
+* **Database:** `SQLite` / Relational DBs
 * **Tooling:** SQLite Browser, SQL Queries
 * **Focus Areas:** Data Aggregation, Filtering, Grouping, Diagnostic Metrics
 
